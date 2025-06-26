@@ -16,6 +16,7 @@
 ## 🧪 Benchmark результаты
 
 ```bash
-go test -bench=. -benchmem -benchtime=100000000x 
-# stack_or_heap
-# stack_or_heap
+go test -bench=. -benchmem -benchtime=100000000x
+```
+
+![alt text](https://github.com/orayew2002/stack_or_heap/blob/main/assets/result.png)
